@@ -5,3 +5,5 @@ user1 feature2 -- fix
 
 user2 feature
 
+user2 feature2
+
